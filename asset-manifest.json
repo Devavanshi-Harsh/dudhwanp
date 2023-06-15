@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DudhwaNationalPark/static/css/main.6c45bdae.css",
-    "main.js": "/DudhwaNationalPark/static/js/main.8f051c09.js",
-    "static/js/787.2ed765d8.chunk.js": "/DudhwaNationalPark/static/js/787.2ed765d8.chunk.js",
-    "index.html": "/DudhwaNationalPark/index.html",
-    "main.6c45bdae.css.map": "/DudhwaNationalPark/static/css/main.6c45bdae.css.map",
-    "main.8f051c09.js.map": "/DudhwaNationalPark/static/js/main.8f051c09.js.map",
-    "787.2ed765d8.chunk.js.map": "/DudhwaNationalPark/static/js/787.2ed765d8.chunk.js.map"
+    "main.css": "/dudhwanp_upload/static/css/main.6c45bdae.css",
+    "main.js": "/dudhwanp_upload/static/js/main.6a08877a.js",
+    "static/js/787.2ed765d8.chunk.js": "/dudhwanp_upload/static/js/787.2ed765d8.chunk.js",
+    "index.html": "/dudhwanp_upload/index.html",
+    "main.6c45bdae.css.map": "/dudhwanp_upload/static/css/main.6c45bdae.css.map",
+    "main.6a08877a.js.map": "/dudhwanp_upload/static/js/main.6a08877a.js.map",
+    "787.2ed765d8.chunk.js.map": "/dudhwanp_upload/static/js/787.2ed765d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c45bdae.css",
-    "static/js/main.8f051c09.js"
+    "static/js/main.6a08877a.js"
   ]
 }
